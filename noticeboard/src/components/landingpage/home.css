@@ -1,0 +1,51 @@
+.homeborderdiv {
+  border: 2px solid #e2dadb;
+  width: 35%;
+  height: 600px;
+  margin: auto;
+  margin-top: 5%;
+  overflow: scroll;
+}
+.noticediv {
+  text-align: left;
+  margin-left: 11px;
+}
+.heading {
+  text-decoration: underline;
+}
+.textareainput {
+  border: 2px solid #e2dadb;
+  width: 93%;
+  height: 25px;
+  resize: none;
+}
+.textbtndiv {
+  text-align: right;
+}
+.textbtn {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin: 10px;
+}
+/* .maindiv-content {
+  border: 2px solid #e2dadb;
+  width: 95%;
+  margin: auto;
+} */
+.sub-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 10px;
+}
+.timestramp {
+  text-align: right;
+}
+.sub-1 {
+  border: 2px solid #e2dadb;
+  width: 97%;
+  margin: auto;
+  margin: 5px;
+}

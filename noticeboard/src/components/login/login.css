@@ -1,0 +1,19 @@
+.loginbtn {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin: 10px;
+}
+.login-borderdiv {
+  border: 2px solid #e2dadb;
+  width: 35%;
+  height: 600px;
+  margin: auto;
+  margin-top: 5%;
+}
+.logininput {
+  border: 2px solid #e2dadb;
+  border-radius: 5px;
+  height: 25px;
+}

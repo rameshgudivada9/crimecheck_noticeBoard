@@ -1,0 +1,2 @@
+export const GET_POSTER_DATA = "GET_POSTER_DATA";
+export const SET_POSTER_DATA = "SET_POSTER_DATA";
